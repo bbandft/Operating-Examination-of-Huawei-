@@ -7,7 +7,6 @@
       # 输出到长度为8的新字符串数组
 
     
-    
 while True:
     try:
         i = input()
